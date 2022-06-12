@@ -1,0 +1,9 @@
+{
+    "id": "NI-Chu2NjVkl1CUcjgJ8RXodewyhwDTMijpZ-ZPGElxUwVOamI2l6KgWSA",
+    "accountId": "__K2EWDg6Z6MFpVxcn8XR5HP9B03f2HstsR2-7xfOHyXHeTUc1Sv36uL",
+    "puuid": "uy5qoA7RHGy-skIYwDMygwt7YZevdpGHuGwXA31_9WekFWEAQWOF2Knl9z8_Y0WE_bCX3Z_Lv3fYEA",
+    "name": "6C0di9",
+    "profileIconId": 22,
+    "revisionDate": 1652384644000,
+    "summonerLevel": 18
+}
